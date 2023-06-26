@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MyLibraryCore",
-            url: "https://github.com/carmelojcortes/MyLibrary/releases/download/0.0.8/MyLibCore.zip",
-            checksum: "8350fcb63c25dd9c52fbf27cb4b7a4b28976d4f390964c2addfd08444e489b68"
+            url: "https://github.com/carmelojcortes/MyLibrary/releases/download/0.0.9/MyLibCore.zip",
+            checksum: "be9270b36e83c075f26ff1079a77c8e0273242bba2db9ba912b56969ecf5c0b5"
         )
     ]
 )
